@@ -61,10 +61,9 @@ Git, GitHub, Postman
 ##  Open Source Contributions
 
 ###  Hacktoberfest Contributions
-- Contributed to open-source projects through Hacktoberfest  
-- Submitted multiple pull requests across different repositories  
-- Improved existing codebases by fixing bugs and enhancing functionality  
-- Gained experience in collaborative development, version control, and code review processes  
+- Wrote Doctests for Dijkstra's algorithm
+- Fixed multiple UI/UX issues and improved UI components
+- Improved database of a web application.
 
 
 ##  What I Bring
